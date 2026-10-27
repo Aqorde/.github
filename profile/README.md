@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aqorde/.github/main/profile/assets/aqorde-logo.svg" width="140" alt="aqorde">
-</p>
-
 <h1 align="center">aqorde</h1>
 
 <p align="center">
