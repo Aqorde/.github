@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">aqorde</title>
+<desc id="desc">Core Q: a hollow ring with three radial extensions and a longer central tail. Approved mark 02.</desc>
+<defs>
+<linearGradient id="brand" gradientUnits="userSpaceOnUse" x1="25" y1="25" x2="222" y2="222">
+<stop offset="0" stop-color="#BEA5FF"/><stop offset="0.48" stop-color="#8B65DF"/><stop offset="1" stop-color="#5934A5"/>
+</linearGradient>
+<linearGradient id="tail-accent" gradientUnits="userSpaceOnUse" x1="167.74011537017762" y1="167.74011537017762" x2="216.5304832720494" y2="216.5304832720494">
+<stop offset="0" stop-color="#E3D6FF" stop-opacity="0"/><stop offset="0.36" stop-color="#E3D6FF" stop-opacity="0.08"/><stop offset="1" stop-color="#E3D6FF" stop-opacity="0.28"/>
+</linearGradient>
+<linearGradient id="rim" gradientUnits="userSpaceOnUse" x1="27.64368036143631" y1="92.4689512916296" x2="148.77507043554533" y2="32.075068042732795">
+<stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.3" stop-color="#FFFFFF" stop-opacity="0.64"/><stop offset="0.7" stop-color="#FFFFFF" stop-opacity="0.4"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+</linearGradient></defs>
+<g fill="url(#brand)" fill-rule="evenodd">
+<path id="ring" d="M 203 114 A 89 89 0 1 0 25 114 A 89 89 0 1 0 203 114 Z M 171 114 A 57 57 0 1 0 57 114 A 57 57 0 1 0 171 114 Z"/>
+<path id="extension-1" d="M 196.7030 119.3110 L 224.0912 125.1325 A 5 5 12 0 1 227.9424 131.0628 L 225.0316 144.7569 A 5 5 12 0 1 219.1013 148.6081 L 191.7132 142.7865 A 5 5 12 0 1 187.8620 136.8562 L 190.7727 123.1622 A 5 5 12 0 1 196.7030 119.3110 Z"/>
+<path id="extension-2" d="M 181.1751 159.9619 L 220.0660 198.8528 A 6 6 45 0 1 220.0660 207.3381 L 207.3381 220.0660 A 6 6 45 0 1 198.8528 220.0660 L 159.9619 181.1751 A 6 6 45 0 1 159.9619 172.6899 L 172.6899 159.9619 A 6 6 45 0 1 181.1751 159.9619 Z"/>
+<path id="extension-3" d="M 142.7865 191.7132 L 148.6081 219.1013 A 5 5 78 0 1 144.7569 225.0316 L 131.0628 227.9424 A 5 5 78 0 1 125.1325 224.0912 L 119.3110 196.7030 A 5 5 78 0 1 123.1622 190.7727 L 136.8562 187.8620 A 5 5 78 0 1 142.7865 191.7132 Z"/>
+</g>
+<path id="central-extension-accent" d="M 181.1751 159.9619 L 220.0660 198.8528 A 6 6 45 0 1 220.0660 207.3381 L 207.3381 220.0660 A 6 6 45 0 1 198.8528 220.0660 L 159.9619 181.1751 A 6 6 45 0 1 159.9619 172.6899 L 172.6899 159.9619 A 6 6 45 0 1 181.1751 159.9619 Z" fill="url(#tail-accent)"/>
+<path id="light-edge-1" d="M 28.5655 92.6988 A 88.05 88.05 0 0 1 148.4039 32.9495" fill="none" stroke="url(#rim)" stroke-width="1.35" stroke-linecap="round"/>
+<path id="light-edge-2" d="M 60.3624 92.3290 A 57.85 57.85 0 0 1 129.9456 58.3910" fill="none" stroke="url(#rim)" stroke-width="0.85" stroke-linecap="round"/>
+</svg>
