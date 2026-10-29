@@ -14,15 +14,15 @@ keep a shared history, and retain their identity when their underlying model cha
 
 ## Built around Core
 
-At the center of aqorde is **Core** — the persistent personality and memory kernel.
+At the center of aqorde is **Core** - the persistent personality and memory kernel.
 It owns the companion's identity, conversation history, long-term memory,
 context, tasks, and permissions. The LLM provides reasoning and language;
 Core maintains continuity across conversations and model changes.
 
-- **Persistent memory** — conversations, important facts, preferences, and shared history.
-- **A distinct personality** — character and behavior shaped within Core, with room to evolve.
-- **Replaceable models** — the companion's identity and memory belong to Core, independently of the LLM.
-- **A modular platform** — interfaces, skills, and tools connect around Core.
+- **Persistent memory** - conversations, important facts, preferences, and shared history.
+- **A distinct personality** - character and behavior shaped within Core, with room to evolve.
+- **Replaceable models** - the companion's identity and memory belong to Core, independently of the LLM.
+- **A modular platform** - interfaces, skills, and tools connect around Core.
 - **Local ownership and explicit control** — personal state stays local; external actions and cloud routes follow permissions.
 
 ## A home for different companions
@@ -46,10 +46,10 @@ Voice, avatar experiences, and concurrent companion instances are planned extens
 <details>
 <summary><strong>По-русски</strong></summary>
 
-**aqorde** — платформа для создания персональных, обучаемых ИИ-компаньонов
+**aqorde** - платформа для создания персональных, обучаемых ИИ-компаньонов
 с постоянной памятью и развивающейся личностью на базе сменных языковых моделей.
 
-В центре платформы — **Core**, постоянное ядро личности и памяти. Оно хранит
+В центре платформы - **Core**, постоянное ядро личности и памяти. Оно хранит
 характер, историю общения, знания о пользователе, задачи и разрешения.
 LLM служит заменяемым движком: смена модели сохраняет личность и общую историю.
 
